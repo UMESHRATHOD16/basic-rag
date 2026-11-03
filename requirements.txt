@@ -43,13 +43,14 @@ openai                   3.42.1
 orjson                   3.13.0
 ormsgpack                1.13.0
 packaging                26.3
-pip                      26.2.1
+pip                      26.3
 portalocker              4.4.2
 propcache                0.5.4
 protobuf                 7.36.2
 pydantic                 2.14.2
 pydantic_core            2.50.2
 pydantic-settings        2.16.2
+pypdf                    6.21.4
 python-dotenv            1.2.4
 PyYAML                   6.0.3
 qdrant-client            1.20.0
